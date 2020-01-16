@@ -1,0 +1,45 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should render Header correctly 1`] = `
+<header>
+  <h1>
+    Expensify
+  </h1>
+  <ForwardRef
+    activeClassName="is-active"
+    exact={true}
+    to="/"
+  >
+    Homepage
+  </ForwardRef>
+  <ForwardRef
+    activeClassName="is-active"
+    exact={true}
+    to="/create"
+  >
+    Create expense
+  </ForwardRef>
+</header>
+`;
+
+exports[`should rendere Header correctly 1`] = `
+<header>
+  <h1>
+    Expensify
+  </h1>
+  <ForwardRef
+    activeClassName="is-active"
+    exact={true}
+    to="/"
+  >
+    Homepage
+  </ForwardRef>
+  <ForwardRef
+    activeClassName="is-active"
+    exact={true}
+    to="/create"
+  >
+    Create expense
+  </ForwardRef>
+</header>
+`;
